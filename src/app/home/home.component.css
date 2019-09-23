@@ -1,0 +1,38 @@
+.fondo-boton {
+    background-color: white;
+    color: #bcbcbc !important;
+    font-size: 20px !important;
+}
+
+.contenedor-home {
+    background-color: white !important;
+}
+
+table {
+    border-collapse: collapse;
+    border-radius: 3em;
+    overflow: hidden;
+  }
+
+.float{
+    position:fixed;
+    width:100px;
+    height:100px;
+    bottom:40px;
+    right:40px;
+    background-color:#ee8d38;
+    color:#FFF;
+    border-radius:50px;
+    text-align:center;
+    box-shadow: 2px 2px 3px #ce7425;
+    margin-right: 80px;
+}
+
+.my-float{
+    margin-top:20px;
+    font-size: 60px;
+}
+
+#boton-flotante {
+    margin-right: -200px;
+}
